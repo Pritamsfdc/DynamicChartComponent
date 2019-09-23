@@ -1,4 +1,4 @@
-# LightningChartComponent
+# DynamicChartComponent
 ![GitHub Logo](https://pritamshekhawat.files.wordpress.com/2018/05/untitled.png) 
 
 
